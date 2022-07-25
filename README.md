@@ -1,4 +1,4 @@
-# blockchain-lottery-smartcontracts
+# Blockchain-lottery-smartcontracts
 
 To view the frontend code please [click here](https://github.com/nreh1r/blockchain-lottery)
 
