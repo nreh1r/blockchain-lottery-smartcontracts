@@ -4,7 +4,7 @@ To view the frontend code please [click here](https://github.com/nreh1r/blockcha
 
 ## Project Summary
 
-**Currently the Rinkeby Testnet is down due to validtor fluctuations and the lottery is not live as a result, this will be fixed shortly.**
+**Currently the Rinkeby Testnet is down due to validator fluctuations and the lottery is not live as a result, this will be fixed shortly.**
 
 This repository features the smart contracts for the blockchain lottery. I used Solidity to develop the smart contracts, so that they can be compatible with any EVM blockchain. Hardhat was used as the development and testing framework. Unit testing, and some staging tests, was performed in hardhat on the hardhat local network, which is while you will find mocks included with the lottery contract, the Rinkeby test net, and a forked mainnet. The contract that the front end is connected to is live on the rinkeby test net. 
 
