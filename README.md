@@ -15,4 +15,4 @@ The lottery functions by utilizing Chainlink Keepers and Chainlink VRF. Together
 - Node.js
 - JavaScript
 - Solidity
-- 
+
